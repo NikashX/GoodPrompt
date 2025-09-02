@@ -1,0 +1,5 @@
+streamlit-authenticator
+google.generativeai
+pymongo
+bcrypt
+streamlit
